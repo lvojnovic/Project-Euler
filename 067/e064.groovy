@@ -38,7 +38,7 @@ and the value of a larger child
 
 import java.lang.Math
 
-def triangle = new File('triangle')
+def triangle = new File('triangle.txt')
 def tree = []
 
 triangle.eachLine {
